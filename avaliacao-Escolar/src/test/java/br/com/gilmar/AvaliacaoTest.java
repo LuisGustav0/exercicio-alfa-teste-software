@@ -16,7 +16,7 @@ public class AvaliacaoTest {
 
     //CT01
     @Test(expected = ValoresInvalidosException.class)
-    public void testeValorInvalido01() throws ValoresInvalidosException {
+    public void testeValorMenorQueDez() throws ValoresInvalidosException {
         avaliacao.avalia(7.0, 6.0, 5, 0);
     }
 
