@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "avalicaoEscolar",
+            "projectName": "avalicaoEscolar",
+            "workingDirectory": "c:\\Users\\Aluno\\Documents\\Aula_27_04_2019\\ALFA_TS_20191\\avaliacao-Escolar",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "avalicaoEscolar",
+            "projectName": "avalicaoEscolar",
+            "workingDirectory": "c:\\Users\\Aluno\\Documents\\Aula_27_04_2019\\ALFA_TS_20191\\avaliacao-Escolar",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
