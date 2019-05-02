@@ -22,7 +22,7 @@ public class AvaliacaoTest {
 
   //CT02
   @Test(expected = ValoresInvalidosException.class)
-  public void testFaltaMaiorCargaHoraria() throws ValoresInvalidosException {
+  public void testComCincoParametros() throws ValoresInvalidosException {
     avaliacao.avalia(7.0, 6.0, 96, 48);
   }
 
@@ -58,8 +58,8 @@ public class AvaliacaoTest {
 
   //CT08
   @Test(expected = ValoresInvalidosException.class)
-  public void testeValorInvalido08() throws ValoresInvalidosException {
-    avaliacao.avalia(8.0, 7.0, -3, 96);
+  public void testFaltaMaiorQueCargaHoraria() throws ValoresInvalidosException {
+    avaliacao.avalia(8.0, 7.0, 97, 96);
   }
 
   //CT09
@@ -92,7 +92,7 @@ public class AvaliacaoTest {
 
   //CT13 media >= 3.0 && media < 6.0
   @Test
-  public void testProvaExtraMediaMaiorOuIgualTresVirgulaZeroAndMediaMaiorQueSeisVirgulaZero() throws ValoresInvalidosException {
+  public void testProvaExtraMediaMaiorOuIgualTresVirgulaZeroAndMediaMenorQueSeisVirgulaZero() throws ValoresInvalidosException {
     String resultado = avaliacao.avalia(4.0, 5.0, 15, 96);
 
     assertEquals("Prova Extra.", resultado);
