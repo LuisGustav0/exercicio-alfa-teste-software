@@ -3,6 +3,10 @@ package br.com.gilmarioarantes.validacpf.model;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.util.Arrays;
+import java.util.List;
+import java.util.concurrent.atomic.AtomicBoolean;
+
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
@@ -35,9 +39,18 @@ public class ValidacaoCPFTest {
 
   @Test
   public void validarCPFInvalido() {
-    String CPF = "00000000000";
+    List<String> listaCPF = Arrays.asList("00000000000", "11111111111", "22222222222", "33333333333", "44444444444",
+        "55555555555", "66666666666", "77777777777", "88888888888", "99999999999");
 
-    boolean isOk = validaCPF.isCPF(CPF);
+    boolean isOk = false;
+
+    for (String CPF : listaCPF) {
+      isOk = validaCPF.isCPF(CPF);
+
+      if(isOk) {
+        break;
+      }
+    }
 
     assertFalse(isOk);
   }
