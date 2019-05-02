@@ -74,6 +74,7 @@ public class AvaliacaoTest {
         avaliacao.avalia(8.0, 7.0, 16, -1);
     }
 
+    //CT11
     @Test
     public void testeValorInvalido11() throws ValoresInvalidosException {
         String resultado = avaliacao.avalia(8.0, 7.0, 28, 97);
@@ -81,6 +82,7 @@ public class AvaliacaoTest {
         assertEquals("Reprovado por Falta.", resultado);
     }
 
+    //CT12
     @Test
     public void testeValorInvalido12() throws ValoresInvalidosException {
         String resultado = avaliacao.avalia(2.0, 3.0, 15, 96);
@@ -88,6 +90,7 @@ public class AvaliacaoTest {
         assertEquals("Reprovado por Média.", resultado);
     }
 
+    //CT13
     @Test
     public void testeValorInvalido13() throws ValoresInvalidosException {
         String resultado = avaliacao.avalia(4.0, 5.0, 15, 96);
@@ -95,6 +98,7 @@ public class AvaliacaoTest {
         assertEquals("Prova Extra.", resultado);
     }
 
+    //CT14
     @Test
     public void testeReprovacoMedia() throws ValoresInvalidosException {
         String resultado = avaliacao.avalia(7.0, 8.0, 15, 96);
