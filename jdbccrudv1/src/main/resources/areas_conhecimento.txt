@@ -1,0 +1,180 @@
+Engenharia de Software
+Qualidade de Software
+Processos de Software
+Engenharia de Software
+Engenharia de Software
+Gerencia de Projetos
+Engenharia de Software
+Processo de Software
+Banco de Dados
+Computação Evolucionária
+Ensino de Computação
+Pensamento Computacional
+Recuperação de Informações
+Aprendizado de Máquina (Machine Learning)
+Redes Neurais Artificiais Profundas (Deep Learning)
+Reconhecimento de Padrões
+Metodologias e Técnicas da Computação
+Gerência de Configuração de Software
+Geometria Computacional
+Engenharia de Software
+Algoritmos
+Redes de Computadores
+Redes e Sistemas Distribuídos
+Engenharia de Software
+Web Semântica
+Inteligência Artificial Aplicada
+Desenvolvimento de Sistemas para a Web
+Redes Sociais
+Inteligência Computacional (Redes Neurais e Algoritmo Genético)
+Inteligência Artificial Distribuída
+Metaheurísticas e Otimização
+Reconhecimento de Padrões
+Processamento de Imagens
+Lógicas e Semântica de Programas
+Lambda calculus e Substituições Explícitas
+Teoria de Tipos
+Redes Sociais - Computação Social
+Visão Computacional
+Compiladores
+Informática e Educação
+Algoritmos
+Teoria dos Grafos
+Teoria de Representações de Álgebras
+Engenharia de Software
+Banco de Dados
+Engenharia de Software
+Banco de Dados
+Recuperação de Informação
+Engenharia de Software
+Banco de Dados
+Validação e Verificação e Testes de Software
+Aplicações de Banco de Dados
+Arquitetura de Sistemas de Computação
+Engenharia de Software
+Computação Paralela
+Engenharia de sistemas de informação
+Algoritmos
+Grafos e Representações de Álgebras
+Análise de Algoritmos
+Complexidade de Computação
+Teoria dos Grafos
+Middleware e Sistemas Distribuídos
+Engenharia de Software
+Software Básico
+Linguagens de Programação
+Visão Computacional
+Processamento de Imagens e Sinais
+Estrutura de Dados
+Arquitetura de Software
+Modelagem e Otimização de Sistemas
+Teste de Software
+Visão Computacional: Reconhecimento de Padrões
+Aprendizagem de Máquina
+Extração de Características
+Análise de Algoritmos
+Complexidade de Computação
+Teoria dos Grafos
+Engenharia de Software
+Visualização de Informações
+Interação Homem-Computador
+Otimização Combinatória
+Algoritmos e Otimização
+Sistemas de Computação
+Sistemas Operacionais
+Redes de Computadores
+Sistemas Distribuídos
+Engenharia de Software
+Banco de Dados
+Engenharia de Software
+Informática em Saúde
+Engenharia de Software
+Banco de Dados
+Sistemas de Informação
+Metodologia e Técnicas da Computação
+Teleinformática e Sistemas de Computação
+Redes de Comunicação
+Sistemas Distribuídos
+Visão por Computador
+Sistemas Inteligentes
+Linguagens de Programação
+Otimização Combinatória
+Linguagem Formais e Autômatos
+Engenharia de Software
+Linguagens de Programação
+Banco de Dados
+Engenharia de Software
+Desenvolvimento de jogos e simuladores
+Linguagens de Programação
+Processamento Gráfico
+Redes de Computadores
+Tecnologias na Educação
+Engenharia de Software
+Computação Móvel e Ubíqua
+Algoritmos e Grafos
+Inteligência Computacional
+Recuperação de Informação
+Mineração de dados
+Descoberta de Conhecimento em Grandes Bases de Dados
+Aprendizado de Máquina
+Sistemas de Informação
+Web Semântica
+Inteligência Artificial
+Teste de Software
+Banco de Dados
+Informação e Informática em Saúde
+Qualidade e Gestão de Software
+Computação Ubíqua
+Hipermídia
+Web Semântica
+Engenharia de Documentos
+Informática Médica
+Aprendizado de Máquina
+Mineração de Dados
+Mineração de dados
+Teoria dos Grafos
+Engenharia de Software
+Bancos de Dados
+Visão Computacional
+Processamento de Imagens e Sinais
+Linguagens de Programação
+Engenharia de Software
+Visão Computacional
+Processamento de Imagens Digitais
+Tolerância a Falhas
+Middleware para Gerenciamento de Recursos Distribuídos
+Computação Autonômica
+Sistemas Distribuídos
+Arquitetura de Software
+Engenharia de Software
+Engenharia de Software
+Engenharia de Requisitos
+Algoritmos
+Computação Evolutiva
+Recuperação de Informação
+Mineração de dados na Web
+Sistemas Distribuídos
+Redes e Sistemas Distribuídos
+Engenharia de Software
+Arquitetura de Software
+Sistemas de Informação
+Desenvolvimento Dirigido por Modelos
+Cidades Inteligentes
+Sistemas-de-Sistemas
+Redes e Sistemas Distribuídos (Redes Sem Fio)
+Sistemas Inteligentes
+Modelagem e Simulação
+Engenharia de Software
+Engenharia de Software
+Gerenciamento de Projetos
+Projeto de Software
+Arquitetura de Software
+Construção de Software Web
+Modelagem e Programação Matemática
+Otimização Combinatória e seus algoritmos
+Teoria da Computação
+Computação Paralela e Distribuída
+Biologia Computacional
+Segurança da Informação
+Sistemas Operacionais
+Sistemas Inteligentes

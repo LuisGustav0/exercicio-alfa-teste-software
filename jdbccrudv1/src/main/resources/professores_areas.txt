@@ -1,0 +1,73 @@
+Adailton Ferreira de Araújo;Engenharia de Software;adailton@inf.ufg.br;mestre
+Adriana Silveira de Souza;Qualidade de Software, Processos de Software e Engenharia de Software;adriana@inf.ufg.br;mestre
+Alessandro Cruvinel Machado de Araújo;Engenharia de Software/Gerencia de Projetos;alessandro@inf.ufg.br;mestre
+Ana Cláudia Bastos Loureiro Monção;Engenharia de Software, Processo de Software, Banco de Dados, Computação Evolucionária;anaclaudia@inf.ufg.br;mestre
+Ana Paula Laboissière Ambrósio;Ensino de Computação, Pensamento Computacional e Recuperação de Informações;apaula@inf.ufg.br;doutora
+Anderson da Silva Soares;Aprendizado de Máquina (Machine Learning), Redes Neurais Artificiais Profundas (Deep Learning) e Reconhecimento de Padrões;anderson@inf.ufg.br;doutor
+André Luiz Moura;Metodologias e Técnicas da Computação, Gerência de Configuração de Software, Geometria Computacional, Engenharia de Software e Algoritmos;andreluiz@inf.ufg.br;doutor
+Antonio Carlos de Oliveira Júnior;Redes de Computadores;antonio@inf.ufg.br;doutor
+Bruno Oliveira Silvestre;Redes e Sistemas Distribuídos;brunoos@inf.ufg.br;doutor
+Cássio Leonardo Rodrigues;Engenharia de Software;cassio@inf.ufg.br;doutor
+Cedric Luiz de Carvalho;Web Semântica, Inteligência Artificial Aplicada e Desenvolvimento de Sistemas para a Web;cedric@inf.ufg.br;doutor
+Celso Gonçalves Camilo Junior;Redes Sociais, Inteligência Computacional (Redes Neurais e Algoritmo Genético), Inteligência Artificial Distribuída, Metaheurísticas e Otimização;celso@inf.ufg.br;doutor
+Cristiane Bastos Rocha Ferreira;Reconhecimento de Padrões e Processamento de Imagens;cristiane@inf.ufg.br;mestre
+Daniel Lima Ventura;Lógicas e Semântica de Programas, Lambda calculus e Substituições Explícitas, Teoria de Tipos;daniel@inf.ufg.br;doutor
+Deborah Silva Alves Fernandes;Redes Sociais - Computação Social, Visão Computacional e Compiladores;deborah@inf.ufg.br;doutora
+Deller James Ferreira;Informática e Educação;deller@inf.ufg.br;Doutora
+Diane Castonguay;Algoritmos, Teoria dos Grafos e Teoria de Representações de Álgebras;diane@inf.ufg.br;Doutora
+Dirson Santos de Campos;Engenharia de Software e Banco de Dados;dirson@inf.ufg.br;Mestre
+Edison Andrade Martins Morais;Engenharia de Software, Banco de Dados e Recuperação de Informação;edison@inf.ufg.br;Mestre
+Edmundo Sérgio Spoto;Engenharia de Software e Banco de Dados: Validação e Verificação e Testes de Software e Aplicações de Banco de Dados;edmundo@inf.ufg.br;Doutor
+Eduardo Simões de Albuquerque;Arquitetura de Sistemas de Computação;eduardo@inf.ufg.br;Doutor
+Elias Batista Ferreira;Engenharia de Software e Computação Paralela;elias@inf.ufg.br;Mestre
+Eliomar Araújo de Lima;Engenharia de sistemas de informação;eliomar@inf.ufg.br;Doutor
+Elisângela Silva Dias;Algoritmos, Grafos e Representações de Álgebras;elisangela@inf.ufg.br;Doutora
+Erika Morais Martins Coelho;Análise de Algoritmos, Complexidade de Computação e Teoria dos Grafos;erikamorais@inf.ufg.br;Doutora
+Fábio Moreira Costa;Middleware e Sistemas Distribuídos;fmc@inf.ufg.br;Doutor
+Fábio Nogueira de Lucena;Engenharia de Software, Software Básico e Linguagens de Programação;fabio@inf.ufg.br;Doutor
+Fabrízzio Alphonsus Alves de Melo Nunes Soares;Visão Computacional, Processamento de Imagens e Sinais, Estrutura de Dados e Arquitetura de Software;fabrizzio@inf.ufg.br;Doutor
+Fernando Marques Federson;Modelagem e Otimização de Sistemas;federson@inf.ufg.br;Doutor
+Gilmar Ferreira Arantes;Teste de Software;gilmar@inf.ufg.br;Mestre
+Gustavo Teodoro Laureano;Visão Computacional: Reconhecimento de Padrões, Aprendizagem de Máquina, Extração de Características;gustavo@inf.ufg.br;Doutor
+Hebert Coelho da Silva;Análise de Algoritmos, Complexidade de Computação e Teoria dos Grafos;hebert@inf.ufg.br;Doutor
+Hugo Alexandre Dantas do Nascimento;Engenharia de Software, Visualização de Informações, Interação Homem-Computador e Otimização Combinatória;hadn@inf.ufg.br;Doutor
+Humberto José Longo;Algoritmos e Otimização;longo@inf.ufg.br;Doutor
+Iwens Gervasio Sene Junior;Sistemas de Computação (Sistemas Operacionais, Redes de Computadores, Sistemas Distribuídos);iwens@inf.ufg.br;Doutor
+Jacson Rodrigues Barbosa;Engenharia de Software e Banco de Dados;jacson@inf.ufg.br;Mestre
+Juliana Pereira de Souza-Zinader;Engenharia de Software, Informática em Saúde;juliana@inf.ufg.br;Doutora
+Juliano Lopes de Oliveira;Engenharia de Software, Banco de Dados, Sistemas de Informação, Metodologia e Técnicas da Computação, Teleinformática e Sistemas de Computação;juliano@inf.ufg.br;Doutor
+Kleber Vieira Cardoso 	Redes de Comunicação e Sistemas Distribuídos;kleber@inf.ufg.br;Doutor
+Leandro Luís Galdino de Oliveira;Visão por Computador, Sistemas Inteligentes e Linguagens de Programação;leandroluis@inf.ufg.br
+Leizer de Lima Pinto;Otimização Combinatória;leizer@inf.ufg.br;Doutor
+Lenice Miranda Alves;Linguagem Formais e Autômatos, Engenharia de Software e Linguagens de Programação;lenice@inf.ufg.br;Doutora
+Leonardo Andrade Ribeiro;Banco de Dados;laribeiro@inf.ufg.br;Doutor
+Leonardo Antônio Alves;Engenharia de Software, Desenvolvimento de jogos e simuladores;leonardo@inf.ufg.br;Mestre
+Luciana de Oliveira Berretta;Linguagens de Programação e Processamento Gráfico;luciana@inf.ufg.br;Doutora
+Marcelo Akira Inuzuka;Redes de Computadores e Tecnologias na Educação;marceloakira@inf.ufg.br;Mestre
+Marcelo Ricardo Quinta;Engenharia de Software, Computação Móvel e Ubíqua;marcelo@inf.ufg.br;Mestre
+Márcia Rodrigues Cappelle Santana;Algoritmos e Grafos;marcia@inf.ufg.br;Doutora
+Nádia Félix Felipe da Silva;Inteligência Computacional, Recuperação de Informação, Mineração de dados, Descoberta de Conhecimento em Grandes Bases de Dados, Aprendizado de Máquina;nadia@inf.ufg.br;Doutora
+Nivaldo Pereira de Morais Júnior;Sistemas de Informação;nivaldo@inf.ufg.br;Mestre
+Otávio Calaça Xavier;Web Semântica e Inteligência Artificial;otavio@inf.ufg.br;Mestre
+Plínio de Sá Leitão Júnior;Teste de Software e Banco de Dados;plinio@inf.ufg.br;Doutor
+Renata Dutra Braga;Informação e Informática em Saúde; Qualidade e Gestão de Software;renata@inf.ufg.br;Doutora
+Renato de Freitas Bulcão Neto;Computação Ubíqua, Hipermídia, Web Semântica, Engenharia de Documentos e Informática Médica;renato@inf.ufg.br;Doutor
+Rogerio Lopes Salvini;Aprendizado de Máquina e Mineração de Dados;rogeriosalvini@inf.ufg.br;Doutor
+Rommel Melgaço Barbosa;Mineração de dados e Teoria dos Grafos;rommel@inf.ufg.br;Doutor
+Ronaldo Lopes de Oliveira;Engenharia de Software e Bancos de Dados;ronaldo@inf.ufg.br;Mestre
+Ronaldo Martins da Costa;Visão Computacional, Processamento de Imagens e Sinais e Linguagens de Programação;ronaldocosta@inf.ufg.br;Doutor
+Rubens de Castro Pereira;Engenharia de Software, Visão Computacional, Processamento de Imagens Digitais;rubens@inf.ufg.br;Mestre
+Sand Luz Corrêa;Tolerância a Falhas, Middleware para Gerenciamento de Recursos Distribuídos e Computação Autonômica;sand@inf.ufg.br;Doutora
+Sérgio Teixeira de Carvalho;Sistemas Distribuídos, Arquitetura de Software, Engenharia de Software;sergio@inf.ufg.br;Doutor
+Taciana Novo Kudo;Engenharia de Software e Engenharia de Requisitos;taciana@inf.ufg.br;Mestre
+Telma Woerle de Lima Soares;Algoritmos e Computação Evolutiva;telma@inf.ufg.br;Doutora
+Thierson Couto Rosa;Recuperação de Informação, Mineração de dados na Web e Sistemas Distribuídos;thierson@inf.ufg.br;Doutor
+Vagner José do Sacramento Rodrigues;Redes e Sistemas Distribuídos;vagner@inf.ufg.br;Doutor
+Valdemar Vicente Graciano Neto;Engenharia de Software, Arquitetura de Software, Sistemas de Informação, Desenvolvimento Dirigido por Modelos, Cidades Inteligentes, Sistemas-de-Sistemas;valdemarneto@inf.ufg.br;Doutor
+Vinicius da Cunha Martins Borges;Redes e Sistemas Distribuídos (Redes Sem Fio);vinicius@inf.ufg.br;Doutor
+Vinícius Sebba Patto;Sistemas Inteligentes, Modelagem e Simulação e Engenharia de Software;viniciussebba@inf.ufg.br;Doutor
+Walison Cavalcanti Moreira;Engenharia de Software: Gerenciamento, Projeto, Arquitetura e Construção de Software Web;walison@inf.ufg.br;Mestre
+Wanderley de Souza Alencar;Modelagem e Programação Matemática, Otimização Combinatória e seus algoritmos, Teoria da Computação;wanderley@inf.ufg.br;Doutor
+Wellington Santos Martins;Computação Paralela e Distribuída e Biologia Computacional;wellington@inf.ufg.br;Doutor
+William Divino Ferreira;Segurança da Informação, Sistemas Operacionais e Sistemas Inteligentes 	william@inf.ufg.br;Mestre
+
