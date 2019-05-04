@@ -1,0 +1,24 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1">
+    <test name="Test1" >
+        <classes>
+            <!--<class name="br.com.gilmarioarantes.crudspringbottest.tests.post.PostTest"></class>-->
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="br.com.gilmarioarantes.crudspringbottest.ConsultaEnderecoTest"></class>
+        </classes>
+    </test>
+    <test name="Test3">
+        <classes>
+            <class name="br.com.gilmarioarantes.crudspringbottest.ValidaCPFTest"></class>
+        </classes>
+    </test>
+    <test name="Test4">
+        <classes>
+            <class name="br.com.gilmarioarantes.crudspringbottest.GeraSenhaTest"></class>
+        </classes>
+    </test>
+</suite>
