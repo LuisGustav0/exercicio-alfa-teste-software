@@ -1,12 +1,22 @@
 package br.com.gilmarioarantes.validacpf.model;
 
 public class ValidaCPF {
-
   public boolean isCPF(String cpf) {
     boolean result = false;
     int[] numerosCpf = new int[11];
     int quantidadeZeros = 11 - cpf.length();
     int soma = 0;
+
+    if (cpf == null) {
+      return result;
+    }
+
+    cpf = cpf.replace("[^a-ZA-Z]", "");
+
+    //valida se a quantidade de dígitos informados é maior de 11
+    if (cpf.length() > 11) {
+      return result;
+    }
 
     //validar se existe algum caracter que não seja dígito
     for (int i = 0; i < cpf.length(); i++) {
@@ -19,16 +29,12 @@ public class ValidaCPF {
       numerosCpf[i] = 0;
     }
 
-    //valida se a quantidade de dígitos informados é maior de 11
-    if (cpf.length() > 11) {
-      return result;
-    }
-
     int j = 0;
     for (int i = quantidadeZeros; i < 11; i++) {
       numerosCpf[i] = Integer.parseInt(cpf.substring(j, j + 1));
       j++;
     }
+
 
     //valida se todos os números são iguais
     if (numerosCpf[0] == numerosCpf[1] &&
@@ -49,7 +55,14 @@ public class ValidaCPF {
       soma += numerosCpf[i] * (10 - i);
     }
 
-    int primeiroDigito = (11 - (soma % 11));
+    int restoDivisaoPrimeiroDigito = (soma % 11);
+
+    int primeiroDigito = 0;
+    if (restoDivisaoPrimeiroDigito < 2) {
+      primeiroDigito = 0;
+    } else {
+      primeiroDigito = 11 - restoDivisaoPrimeiroDigito;
+    }
 
     //Cálculo do segundo dígito
     soma = 0;
@@ -57,7 +70,14 @@ public class ValidaCPF {
       soma += numerosCpf[i] * (11 - i);
     }
 
-    int segundoDigito = (11 - (soma % 11));
+    int restoDivisaoSegundoDigito = (soma % 11);
+
+    int segundoDigito = 0;
+    if (restoDivisaoSegundoDigito < 2) {
+      segundoDigito = 0;
+    } else {
+      segundoDigito = 11 - restoDivisaoSegundoDigito;
+    }
 
     result = (primeiroDigito == numerosCpf[9]) && (segundoDigito == numerosCpf[10]);
 
