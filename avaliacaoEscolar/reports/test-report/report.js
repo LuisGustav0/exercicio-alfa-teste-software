@@ -151,7 +151,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaValoresInvalidos()"
 });
 formatter.result({
-  "duration": 176185394,
+  "duration": 119313290,
   "status": "passed"
 });
 formatter.match({
@@ -176,14 +176,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresInvalidos(double,double,int,int)"
 });
 formatter.result({
-  "duration": 7903753,
+  "duration": 2492209,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoResultado()"
 });
 formatter.result({
-  "duration": 2784636,
+  "duration": 2028844,
   "status": "passed"
 });
 formatter.scenario({
@@ -219,7 +219,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaValoresInvalidos()"
 });
 formatter.result({
-  "duration": 559477,
+  "duration": 69127,
   "status": "passed"
 });
 formatter.match({
@@ -244,14 +244,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresInvalidos(double,double,int,int)"
 });
 formatter.result({
-  "duration": 297517,
+  "duration": 223985,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoResultado()"
 });
 formatter.result({
-  "duration": 60471,
+  "duration": 56148,
   "status": "passed"
 });
 formatter.scenario({
@@ -287,7 +287,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaValoresInvalidos()"
 });
 formatter.result({
-  "duration": 95799,
+  "duration": 76674,
   "status": "passed"
 });
 formatter.match({
@@ -312,14 +312,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresInvalidos(double,double,int,int)"
 });
 formatter.result({
-  "duration": 288251,
+  "duration": 230324,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoResultado()"
 });
 formatter.result({
-  "duration": 59382,
+  "duration": 48299,
   "status": "passed"
 });
 formatter.scenario({
@@ -355,7 +355,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaValoresInvalidos()"
 });
 formatter.result({
-  "duration": 104318,
+  "duration": 87843,
   "status": "passed"
 });
 formatter.match({
@@ -380,14 +380,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresInvalidos(double,double,int,int)"
 });
 formatter.result({
-  "duration": 314329,
+  "duration": 241493,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoResultado()"
 });
 formatter.result({
-  "duration": 98608,
+  "duration": 63694,
   "status": "passed"
 });
 formatter.scenario({
@@ -423,7 +423,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaValoresInvalidos()"
 });
 formatter.result({
-  "duration": 118470,
+  "duration": 87541,
   "status": "passed"
 });
 formatter.match({
@@ -448,14 +448,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresInvalidos(double,double,int,int)"
 });
 formatter.result({
-  "duration": 396719,
+  "duration": 256285,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoResultado()"
 });
 formatter.result({
-  "duration": 60939,
+  "duration": 50714,
   "status": "passed"
 });
 formatter.scenario({
@@ -491,7 +491,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaValoresInvalidos()"
 });
 formatter.result({
-  "duration": 89429,
+  "duration": 58864,
   "status": "passed"
 });
 formatter.match({
@@ -516,14 +516,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresInvalidos(double,double,int,int)"
 });
 formatter.result({
-  "duration": 294562,
+  "duration": 205269,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoResultado()"
 });
 formatter.result({
-  "duration": 57867,
+  "duration": 55543,
   "status": "passed"
 });
 formatter.scenario({
@@ -559,7 +559,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaValoresInvalidos()"
 });
 formatter.result({
-  "duration": 90227,
+  "duration": 73655,
   "status": "passed"
 });
 formatter.match({
@@ -584,14 +584,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresInvalidos(double,double,int,int)"
 });
 formatter.result({
-  "duration": 208047,
+  "duration": 204967,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoResultado()"
 });
 formatter.result({
-  "duration": 43883,
+  "duration": 52223,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -689,7 +689,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaReprovacaoPorFalta()"
 });
 formatter.result({
-  "duration": 108270,
+  "duration": 90862,
   "status": "passed"
 });
 formatter.match({
@@ -714,14 +714,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresQueReprovamPorFalta(double,double,int,int)"
 });
 formatter.result({
-  "duration": 328346,
+  "duration": 251757,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliaReprovacaoPorFalta()"
 });
 formatter.result({
-  "duration": 193273,
+  "duration": 161800,
   "status": "passed"
 });
 formatter.scenario({
@@ -757,7 +757,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaReprovacaoPorFalta()"
 });
 formatter.result({
-  "duration": 84024,
+  "duration": 99012,
   "status": "passed"
 });
 formatter.match({
@@ -782,14 +782,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresQueReprovamPorFalta(double,double,int,int)"
 });
 formatter.result({
-  "duration": 260596,
+  "duration": 185346,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliaReprovacaoPorFalta()"
 });
 formatter.result({
-  "duration": 97081,
+  "duration": 78485,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -887,7 +887,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaProvaExtra()"
 });
 formatter.result({
-  "duration": 173014,
+  "duration": 89050,
   "status": "passed"
 });
 formatter.match({
@@ -912,14 +912,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresQueGeramProvaExtra(double,double,int,int)"
 });
 formatter.result({
-  "duration": 322061,
+  "duration": 195005,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliaProvaExtra()"
 });
 formatter.result({
-  "duration": 47150,
+  "duration": 33206,
   "status": "passed"
 });
 formatter.scenario({
@@ -955,7 +955,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaProvaExtra()"
 });
 formatter.result({
-  "duration": 72185,
+  "duration": 77580,
   "status": "passed"
 });
 formatter.match({
@@ -980,14 +980,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresQueGeramProvaExtra(double,double,int,int)"
 });
 formatter.result({
-  "duration": 202949,
+  "duration": 202553,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliaProvaExtra()"
 });
 formatter.result({
-  "duration": 17199,
+  "duration": 25659,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1085,7 +1085,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaReprovacaoPorMedia()"
 });
 formatter.result({
-  "duration": 118436,
+  "duration": 90559,
   "status": "passed"
 });
 formatter.match({
@@ -1110,14 +1110,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresQueReprovamPorMedia(double,double,int,int)"
 });
 formatter.result({
-  "duration": 297040,
+  "duration": 227003,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoReprovacaoPorMedia()"
 });
 formatter.result({
-  "duration": 45176,
+  "duration": 41657,
   "status": "passed"
 });
 formatter.scenario({
@@ -1153,7 +1153,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaReprovacaoPorMedia()"
 });
 formatter.result({
-  "duration": 81187,
+  "duration": 72448,
   "status": "passed"
 });
 formatter.match({
@@ -1178,14 +1178,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresQueReprovamPorMedia(double,double,int,int)"
 });
 formatter.result({
-  "duration": 345145,
+  "duration": 315450,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliandoReprovacaoPorMedia()"
 });
 formatter.result({
-  "duration": 45705,
+  "duration": 28376,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1283,7 +1283,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaAprovacao()"
 });
 formatter.result({
-  "duration": 139648,
+  "duration": 97503,
   "status": "passed"
 });
 formatter.match({
@@ -1308,14 +1308,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresQueAprovam(double,double,int,int)"
 });
 formatter.result({
-  "duration": 418069,
+  "duration": 409331,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliaAprovacao()"
 });
 formatter.result({
-  "duration": 56467,
+  "duration": 40450,
   "status": "passed"
 });
 formatter.scenario({
@@ -1351,7 +1351,7 @@ formatter.match({
   "location": "AvaliacaoTestBdd.testaAprovacao()"
 });
 formatter.result({
-  "duration": 84121,
+  "duration": 96899,
   "status": "passed"
 });
 formatter.match({
@@ -1376,14 +1376,14 @@ formatter.match({
   "location": "AvaliacaoTestBdd.informarValoresQueAprovam(double,double,int,int)"
 });
 formatter.result({
-  "duration": 173719,
+  "duration": 212816,
   "status": "passed"
 });
 formatter.match({
   "location": "AvaliacaoTestBdd.avaliaAprovacao()"
 });
 formatter.result({
-  "duration": 27655,
+  "duration": 37129,
   "status": "passed"
 });
 });

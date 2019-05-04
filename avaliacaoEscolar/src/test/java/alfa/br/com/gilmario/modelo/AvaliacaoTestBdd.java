@@ -3,8 +3,6 @@ package alfa.br.com.gilmario.modelo;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import org.junit.Before;
-import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -16,15 +14,9 @@ public class AvaliacaoTestBdd {
   private int faltas;
   private int cargaHoraria;
   private String resultadoEsperado;
-  private Avaliacao avaliacao;
-
-  @Before
-  public void setup() {
-    this.avaliacao = new Avaliacao();
-  }
+  private Avaliacao avaliacao = new Avaliacao();
 
   @Given("^que quero testar valores invalidos$")
-  @Test
   public void testaValoresInvalidos() {
     System.out.println("\nTestando Valores Inválidos!\n");
   }
