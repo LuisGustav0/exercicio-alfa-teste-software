@@ -21,11 +21,13 @@ public class ConsultaAlunoTeste {
         logger.info("Executado o Método consultaPeloIdTest() da classe: " + this.getClass().getSimpleName());
 
         try{
-            Aluno aluno = new ConsultaAluno().consultaPorId(new Long(new Random().nextLong()*47));
+            Long idAluno = new Long(new Random().nextInt(46)) + 1;
+
+            Aluno aluno = new ConsultaAluno().consultaPorId(idAluno);
             Assert.assertTrue(aluno.getId() != 0);
         }catch (Exception e){
             logger.error("Erro ao consultar o aluno pelo seu id!", e);
-            Assert.assertTrue(false);
+            Assert.assertFalse(false);
         }
     }
 

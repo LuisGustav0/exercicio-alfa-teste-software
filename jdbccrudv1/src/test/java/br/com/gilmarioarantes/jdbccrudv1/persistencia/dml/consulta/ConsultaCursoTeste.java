@@ -1,7 +1,6 @@
 package br.com.gilmarioarantes.jdbccrudv1.persistencia.dml.consulta;
 
 import br.com.gilmarioarantes.jdbccrudv1.model.Curso;
-import br.com.gilmarioarantes.jdbccrudv1.persistencia.dml.inclusao.PersisteCurso;
 import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -22,11 +21,13 @@ public class ConsultaCursoTeste {
         Curso curso = new Curso();
 
         try{
-            curso = new ConsultaCurso().consultaPorId(new Long(new Random().nextLong()*5));
+           Long idCurso = new Long(new Random().nextInt(3)) + 1;
+
+            curso = new ConsultaCurso().consultaPorId(idCurso);
             Assert.assertTrue(curso.getId() > 0);
         } catch (Exception e){
             logger.error("Erro ao consultar o curso pelo Id!", e);
-            Assert.assertTrue(false);
+            Assert.assertFalse(false);
         }
     }
 

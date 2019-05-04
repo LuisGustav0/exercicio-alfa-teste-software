@@ -14,7 +14,7 @@
             <class name="br.com.gilmarioarantes.jdbccrudv1.persistencia.dml.alteracao.AlteraAlunoTeste"></class>
             <class name="br.com.gilmarioarantes.jdbccrudv1.persistencia.dml.alteracao.AlteraCursoTeste"></class>
             <class name="br.com.gilmarioarantes.jdbccrudv1.persistencia.dml.alteracao.AlteraDisciplinaTeste"></class>
-            <!--<class name="br.com.gilmarioarantes.jdbccrudv1.persistencia.dml.consulta.ConsultaCursoTeste"></class>-->
+            <class name="br.com.gilmarioarantes.jdbccrudv1.persistencia.dml.consulta.ConsultaCursoTeste"></class>
         </classes>
     </test>
 </suite>
