@@ -32,4 +32,22 @@ public class PersisteProfessorTeste {
         }
         Assert.assertTrue(result);
     }
+
+    @Test
+    public void testIncluirProferssor() {
+        Professor professor = new Professor();
+        professor.setId(73L);
+        professor.setNome("Luis Gustavo");
+        professor.setEmail("luis.gsutav0@live.com");
+        professor.setTitulacao("Teste Titulacao");
+
+        boolean result = false;
+        try {
+            result = new PersisteProfessor().persisteProfessor(professor);
+        } catch (Exception e) {
+            result = false;
+            logger.error("Erro ao persistir a Disciplina!", e);
+        }
+        Assert.assertTrue(result);
+    }
 }

@@ -1,5 +1,7 @@
 package br.com.gilmarioarantes.jdbccrudv1.persistencia.dml.consulta;
 
+import br.com.gilmarioarantes.jdbccrudv1.model.Disciplina;
+import br.com.gilmarioarantes.jdbccrudv1.model.Professor;
 import br.com.gilmarioarantes.jdbccrudv1.model.Turma;
 import br.com.gilmarioarantes.jdbccrudv1.persistencia.base.PersistenciaJdbc;
 import org.apache.log4j.Logger;
@@ -28,8 +30,14 @@ public class ConsultaTurma extends PersistenciaJdbc {
         while(rs.next()){
             turma.setId(rs.getLong("ID_TURMA"));
             turma.setSemestre(rs.getString("SEMESTRE"));
-            turma.getDisciplina().setId(rs.getLong("DISCIPLINA"));
-            turma.getProfessor().setId(rs.getLong("PROFESSOR"));
+
+            Disciplina disciplina = new Disciplina();
+            disciplina.setId(rs.getLong("DISCIPLINA"));
+            turma.setDisciplina(disciplina);
+
+            Professor professor = new Professor();
+            professor.setId(rs.getLong("PROFESSOR"));
+            turma.setProfessor(professor);
         }
 
         logger.info("A consulta de turma por id foi bem sucedida!");
